@@ -14,9 +14,9 @@ video: /assets/images/video-logo
 	muted
 	autoplay
 	preload="auto"
-	poster="{{ postVideo }}.png">
-<source src={{ postVideo }}.mp4" type="video/mp4">
-<!-- <source src="{{ postVideo }}.webm" type="video/webm"> -->
+	poster="{{% asset-path "images/video-logo" %}}.png">
+<source src={{% asset-path "images/video-logo" %}}.mp4" type="video/mp4">
+<source src="{{% asset-path "images/video-logo" %}}.webm" type="video/webm">
 </video>
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "News" }}</h3>
