@@ -17,9 +17,7 @@ title: Computational Multiphase Flow Research
 subtitle: Aerospace Engineering - University of Illinois Urbana-Champaign
 email: fevrard@illinois.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Homepage of the Computational Multiphase Flow Research group at the Department of Aerospace Engineering, University of Illinois Urbana-Champaign.
 twitter_username: 
 github_username: cmfr-ae-illinois
 minimal_mistakes_skin: default
@@ -62,7 +60,7 @@ plugins:
 author:
   name   : # "Fabien Evrard"
   # avatar : "/assets/images/prdns.png"
-  bio    : "Our group develops numerical methods and physical models to study and predict multiphase flows with applications in aerospace and beyond."
+  # bio    : "Our group develops numerical methods and physical models to study and predict multiphase flows with applications in aerospace and beyond."
   links:
     - label: "Home: Aerospace @ Illinois"
       icon: "fas fa-fw fa-plane"
@@ -70,8 +68,8 @@ author:
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/"
-    - label: "PI: Fabien Evrard"
-      icon: "fab fa-user-astronaut"
+    - label: " PI: Fabien Evrard"
+      icon: "fab fa-fw fa-user-astronaut"
       url: "https://aerospace.illinois.edu/directory/profile/fevrard"
     - label: "Code: CMFR Repository"
       icon: "fab fa-fw fa-github"
