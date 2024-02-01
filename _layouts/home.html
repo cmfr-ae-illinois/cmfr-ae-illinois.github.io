@@ -5,18 +5,8 @@ video: /assets/images/video-logo
 
 {{ content }}
 
-{% if page.image %}
-  {% assign postImage = page.image %}
-{% elsif post.image %}
-  {% assign postImage = post.image %}
-{% else %}
-  {% if page.video %}
-    {% assign postVideo = page.video %}
-  {% elsif post.video %}
-    {% assign postVideo = post.video %}
-  {% else %}
-    {% assign postImage = site.default_image %}
-  {% endif %}
+{% if video %}
+  {% assign postVideo = video %}
 {% endif %}
 
 <video class="background"
