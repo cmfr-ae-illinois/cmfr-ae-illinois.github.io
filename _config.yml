@@ -60,7 +60,7 @@ plugins:
 author:
   name   : # "Fabien Evrard"
   avatar : "/assets/images/prdns.png"
-  bio    : "Our group is located in Department of Aerospace Engineering at the University of Illinois Urbana-Champaign. We focus on developing numerical methods and physical models to study and predict multiphase flows with applications in aerospace and beyond."
+  bio    : "Our group develops numerical methods and physical models to study and predict multiphase flows with applications in aerospace and beyond."
   links:
     - label: "Aerospace Engineering @ Illinois"
       icon: "fas fa-fw fa-plane"
