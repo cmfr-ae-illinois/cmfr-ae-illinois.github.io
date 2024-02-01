@@ -1,6 +1,6 @@
 ---
 title: "New website"
-date: 2024-02-01
+subtitle: "Feb 01, 2024"
 last_modified_at: 2024-02-01
 ---
 
