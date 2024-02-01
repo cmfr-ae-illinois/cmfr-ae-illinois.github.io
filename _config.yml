@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 twitter_username: 
 github_username: cmfr-ae-illinois
-minimal_mistakes_skin: dirt
+minimal_mistakes_skin: default
 search: true
 
 # Build settings
@@ -68,7 +68,7 @@ author:
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/"
-    - label: "Our GitHub repository"
+    - label: "CMFR Code Repository"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cmfr-ae-illinois"
     # - label: "Instagram"
