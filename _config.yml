@@ -70,7 +70,7 @@ author:
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/"
-    - label: "PI: Fabien Evrard"
+    - label: "PI - Fabien Evrard"
       icon: "fas fa-user-astronaut"
       url: "https://aerospace.illinois.edu/directory/profile/fevrard"
     - label: "CMFR Code Repository"
