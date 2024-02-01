@@ -3,7 +3,10 @@
 search: false
 ---
 
-$link-color: #FF5F50;
+$illinois-orange: #FF5F50;
+$illinois-blue: #13294B;
+
+$link-color: $illinois-orange;
 $serif      : Georgia, Times, serif;
 $sans-serif : "Source Sans 3", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace  : Monaco, Consolas, "Lucida Console", monospace;
