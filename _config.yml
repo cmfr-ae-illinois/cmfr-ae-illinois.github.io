@@ -73,7 +73,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cmfr-ae-illinois"
     - label: "PI: Fabien Evrard"
-      icon: "fab fa-fw fa-user"
+      icon: "fas fa-user-astronaut"
       url: "https://aerospace.illinois.edu/directory/profile/fevrard"
 
 footer:
