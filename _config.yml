@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Computational Multiphase Flow Research
-subtitle: Aerospace Engineering - Illinois
+subtitle: Aerospace Engineering - University of Illinois Urbana-Champaign
 email: fevrard@illinois.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -61,7 +61,7 @@ plugins:
 
 author:
   name   : # "Fabien Evrard"
-  avatar : "/assets/images/prdns.png"
+  # avatar : "/assets/images/prdns.png"
   bio    : "Our group develops numerical methods and physical models to study and predict multiphase flows with applications in aerospace and beyond."
   links:
     - label: "Aerospace Engineering @ Illinois"
