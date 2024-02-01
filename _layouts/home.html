@@ -1,8 +1,23 @@
 ---
-layout: single
+layout: splash
+video: /assets/images/video-logo
 ---
 
 {{ content }}
+
+{% if page.image %}
+  {% assign postImage = page.image %}
+{% elsif post.image %}
+  {% assign postImage = post.image %}
+{% else %}
+  {% if page.video %}
+    {% assign postVideo = page.video %}
+  {% elsif post.video %}
+    {% assign postVideo = post.video %}
+  {% else %}
+    {% assign postImage = site.default_image %}
+  {% endif %}
+{% endif %}
 
 <video class="background"
 	loop
@@ -10,7 +25,7 @@ layout: single
 	autoplay
 	preload="auto"
 	poster="{{ postVideo }}.png">
-<source src="/assets/images/video-logo.mp4" type="video/mp4">
+<source src={{ postVideo }}.mp4" type="video/mp4">
 <!-- <source src="{{ postVideo }}.webm" type="video/webm"> -->
 </video>
 
