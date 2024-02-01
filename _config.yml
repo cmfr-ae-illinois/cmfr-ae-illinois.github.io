@@ -24,7 +24,7 @@ twitter_username:
 github_username: cmfr-ae-illinois
 minimal_mistakes_skin: default
 search: true
-logo: "/assets/images/illinois.png"
+logo: "/assets/images/illinois-vert-padding.png"
 
 # Build settings
 markdown: kramdown
