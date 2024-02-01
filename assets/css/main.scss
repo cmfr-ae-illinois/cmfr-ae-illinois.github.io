@@ -3,9 +3,10 @@
 search: false
 ---
 
+$link-color: #FF5F50;
+
+
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-
-$link-color: #FF5F50;
