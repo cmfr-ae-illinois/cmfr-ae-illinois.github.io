@@ -40,6 +40,23 @@ html {
   }
 }
 
-body {
-  min-width:500px;
+// body {
+//   min-width:500px;
+// }
+
+.navicon {
+  background: $illinois-blue; // change color
+
+  &:before,
+  &:after {
+    background: $illinois-blue; // change color
+  }
+}
+
+.greedy-nav__toggle:hover {
+  .navicon,
+  .navicon:before,
+  .navicon:after {
+    background: mix(#000, $primary-color, 25%); // change color
+  }
 }
