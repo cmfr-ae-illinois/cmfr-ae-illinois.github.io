@@ -14,7 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Computational Multiphase Flow Research
+shorttitle: Comp. Multiphase Flow Research
 subtitle: Aerospace Engineering - University of Illinois Urbana-Champaign
+shortsubtitle: Aerospace Engineering - UIUC
 email: fevrard@illinois.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Homepage of the Computational Multiphase Flow Research group at the Department of Aerospace Engineering, University of Illinois Urbana-Champaign.
