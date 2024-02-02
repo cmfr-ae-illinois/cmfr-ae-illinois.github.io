@@ -9,7 +9,14 @@
 $font-size-root: 12 !default;
 $font-size-root-sm: 12 !default;
 
-$doc-font-size: 16 !default;
+// $doc-font-size: 16 !default;
+
+html {
+    font-size: 62.5%;
+}
+body {
+    font-size: 1rem;
+}
 
 /* paragraph indention */
 $paragraph-indent: false !default; // true, false (default)
