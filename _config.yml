@@ -26,6 +26,7 @@ minimal_mistakes_skin: default
 search: false
 logo: "/assets/images/illinois-vert-padding.png"
 url : https://cmfr-ae-illinois.github.io/
+repository: cmfr-ae-illinois/cmfr-ae-illinois.github.io
 
 # Build settings
 markdown: kramdown
