@@ -45,22 +45,7 @@ html {
 //   min-width:500px;
 // }
 
-.navicon {
-  background: $illinois-blue; // change color
-
-  &:before,
-  &:after {
-    background: $illinois-blue; // change color
-  }
-}
-
-.greedy-nav__toggle:hover {
-  .navicon,
-  .navicon:before,
-  .navicon:after {
-    background: mix(#000, $illinois-blue, 25%); // change color
-  }
-}
+$primary-color : $illinois-blue
 
 .greedy-nav .visible-links a:before {
   background-color: $illinois-orange-accessible;
