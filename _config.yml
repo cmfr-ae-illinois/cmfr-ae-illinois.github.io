@@ -55,7 +55,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jemoji
   - jekyll-include-cache
   - jekyll-scholar
@@ -78,6 +77,20 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cmfr-ae-illinois"
 
+scholar:
+  # style: universite-nangui-abrogoua-sciences-de-la-nature-apa
+  style: ./_bibliography/american-physics-society-no-num
+  bibliography: CMFR-website.bib
+  group_by: year
+  bibliography_template: bib
+  repository: ./papers/
+  sort_by: year
+  order: ascending
+
+compress_html:
+  clippings: all
+  blanklines: true
+  
 footer:
   links:
     - label: "Twitter"
@@ -87,7 +100,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cmfr-ae-illinois"
     - label: "Google Scholar"
-      icon: "fa-brands fa-google-scholar"
+      icon: "fa fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=94-2c98AAAAJ&hl=en"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"

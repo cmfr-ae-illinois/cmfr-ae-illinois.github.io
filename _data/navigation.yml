@@ -1,12 +1,10 @@
 # main links
 main:
-  - title: "People"
-    url: /people/
+  - title: "Team"
+    url: /team/
   - title: "Research"
     url: /research/
   - title: "Publications"
     url: /publications/
   - title: "Code"
-    url: /code/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    url: https://github.com/cmfr-ae-illinois
