@@ -4,6 +4,7 @@ search: false
 ---
 
 $illinois-orange : #FF5F50;
+$illinois-orange-accessible : #C84113;
 $illinois-blue   : #13294B;
 
 $link-color : $illinois-blue;
@@ -57,10 +58,10 @@ html {
   .navicon,
   .navicon:before,
   .navicon:after {
-    background: mix(#000, $primary-color, 25%); // change color
+    background: mix(#000, $illinois-blue, 25%); // change color
   }
 }
 
 .greedy-nav .visible-links a:before {
-  background-color: $illinois-orange;
+  background-color: $illinois-orange-accessible;
 }
