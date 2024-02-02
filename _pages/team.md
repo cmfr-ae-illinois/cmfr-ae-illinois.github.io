@@ -8,17 +8,20 @@ Team
 
 #### Principal investigator
 
-![Fabien Evrard](../assets/images/fabien.jpg){: style="float: left; height: 13em; margin-right: 1em"}
-**[Fabien Evrard](https://aerospace.illinois.edu/directory/profile/fevrard)**  
-Assistant Professor  
-Aerospace Engineering  
-[fevrard@illinois.edu](mailto:fevrard@illinois.edu)  
-<br>
-<b><a href="../cv/fevrard.pdf">[CV]</a>
-<br>
-<br>
-<br>
-<br>
+<div class="flex-container" style="margin-bottom: 0.8em">
+  <div class="box">
+    <img src="../assets/images/fabien.jpg" style="float: left; height: 13em; margin-right: 1em"/>
+    <a href="https://aerospace.illinois.edu/directory/profile/fevrard"><b>Fabien Evrard</b></a> <b><a style="color:#C84113" href="../cv/fevrard.pdf">[CV]</a></b><br>
+    Assistant Professor  <br>
+    Aerospace Engineering  <br>
+    <a href="mailto:fevrard@illinois.edu">fevrard@illinois.edu</a>
+  </div>
+  <div class="box">
+  </div>
+  <div class="box">
+  </div>
+</div>
+
 
 #### Graduate students
 
@@ -29,38 +32,20 @@ Aerospace Engineering
     M.S. Student  <br>
     Aerospace Engineering  <br>
     <a href="mailto:kdeepak2@illinois.edu">kdeepak2@illinois.edu</a>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
   </div>
   <div class="box">
     <!-- <img src="../assets/images/bio-photo.jpg" style="float: left; height: 13em; margin-right: 1em"/>
     <a href="."><b>Student 1</b></a><br>
     M.S. Student  <br>
     Aerospace Engineering  <br>
-    <a href="mailto:student1@illinois.edu">student1@illinois.edu</a>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br> -->
+    <a href="mailto:student1@illinois.edu">student1@illinois.edu</a> -->
   </div>
   <div class="box">
     <!-- <img src="../assets/images/bio-photo.jpg" style="float: left; height: 13em; margin-right: 1em"/>
     <a href="."><b>Student 1</b></a><br>
     M.S. Student  <br>
     Aerospace Engineering  <br>
-    <a href="mailto:student1@illinois.edu">student1@illinois.edu</a>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br> -->
+    <a href="mailto:student1@illinois.edu">student1@illinois.edu</a> -->
   </div>
 </div>
 
@@ -74,37 +59,19 @@ Aerospace Engineering
     B.S. Student  <br>
     Aerospace Engineering  <br>
     <a href="mailto:sudhir3@illinois.edu">sudhir3@illinois.edu</a>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
   </div>
   <div class="box">
     <!-- <img src="../assets/images/bio-photo.jpg" style="float: left; height: 13em; margin-right: 1em"/>
     <a href="."><b>Student 1</b></a><br>
     M.S. Student  <br>
     Aerospace Engineering  <br>
-    <a href="mailto:student1@illinois.edu">student1@illinois.edu</a>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br> -->
+    <a href="mailto:student1@illinois.edu">student1@illinois.edu</a> -->
   </div>
   <div class="box">
     <!-- <img src="../assets/images/bio-photo.jpg" style="float: left; height: 13em; margin-right: 1em"/>
     <a href="."><b>Student 1</b></a><br>
     M.S. Student  <br>
     Aerospace Engineering  <br>
-    <a href="mailto:student1@illinois.edu">student1@illinois.edu</a>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br> -->
+    <a href="mailto:student1@illinois.edu">student1@illinois.edu</a> -->
   </div>
 </div>
