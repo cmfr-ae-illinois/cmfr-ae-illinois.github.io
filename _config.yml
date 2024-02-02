@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: 
 github_username: cmfr-ae-illinois
 minimal_mistakes_skin: default
-search: true
+search: false
 logo: "/assets/images/illinois-vert-padding.png"
 
 # Build settings
