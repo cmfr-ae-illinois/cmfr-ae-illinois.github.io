@@ -86,7 +86,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cmfr-ae-illinois"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-google-scholar"
+      icon: "fa-brands fa-google-scholar"
       url: "https://scholar.google.com/citations?user=94-2c98AAAAJ&hl=en"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
