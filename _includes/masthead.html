@@ -13,9 +13,8 @@
         </a> -->
         <a class="site-title" href="{{ '/' | relative_url }}">
           {{ site.masthead_title | default: site.title }}
-        </a>        
-        <a class="site-subtitle" href="{{ '/' | relative_url }}">
-          {{ site.subtitle | default: ' '}}
+        </a><a class="site-title" href="{{ '/' | relative_url }}">
+          <span class="site-subtitle">{{ site.subtitle }}</span>
         </a>
         <ul class="visible-links">
           {%- for link in site.data.navigation.main -%}
