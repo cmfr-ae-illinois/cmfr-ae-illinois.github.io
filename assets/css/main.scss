@@ -31,22 +31,19 @@ $monospace  : Monaco, Consolas, "Lucida Console", monospace;
 
 html {
   font-size: 14px; // change to whatever
-
   @include breakpoint($medium) {
     font-size: 16px; // change to whatever
   }
-
   @include breakpoint($large) {
     font-size: 18px; // change to whatever
   }
-
   @include breakpoint($x-large) {
     font-size: 20px; // change to whatever
   }
 }
 
 body {
-//   min-width:500px;
+  // max-width:1000px;
   line-height: 1.4; /* less spacing between lines (default=1.5) */
 }
 
@@ -57,15 +54,16 @@ body {
 
 .bibarticle {
   ol.bibliography { list-style-type: none; }
-  ol.bibliography > li:before{font-weight:700; color:$illinois-orange-accessible; content: ' [J' counter(bibarticleitem) '] ';}
+  ol.bibliography > li:before{font-weight:700; color:$illinois-blue; content: ' [J' counter(bibarticleitem) '] · ';}
   ol.bibliography > li {counter-increment: bibarticleitem -1;}
-  ol.bibliography > li {margin-bottom:0.1em;}
+  ol.bibliography > li {margin-bottom:0.2em;}
   ol.bibliography {margin-top:-1.5em; margin-left:1.25em;}
 }
 .bibconference {
   ol.bibliography { list-style-type: none; }
-  ol.bibliography > li:before{font-weight:700; color:$illinois-orange-accessible; content: ' [C' counter(bibcontitem) '] ';}
+  ol.bibliography > li:before{font-weight:700; color:$illinois-blue; content: ' [C' counter(bibcontitem) '] · ';}
   ol.bibliography > li {counter-increment: bibcontitem -1;}
+  ol.bibliography > li {margin-bottom:0.2em;}
   ol.bibliography {margin-top:-1.5em; margin-left:1.25em;}
 }
 
@@ -82,3 +80,16 @@ h1, h2, h3, h4, h5, h6 {
  h3,h4,h5,h6 {
   margin-bottom: 5px;
  }
+
+ .flex-container {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.flex-container .box {
+  width: 50%;
+  margin: 0px;
+  text-align: left;
+  line-height: 1.4; /* less spacing between lines (default=1.5) */  
+  font-size: 0.8em;
+}

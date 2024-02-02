@@ -55,10 +55,10 @@ include:
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
+  # - jekyll-sitemap
+  # - jekyll-gist
   - jemoji
-  - jekyll-include-cache
+  # - jekyll-include-cache
   - jekyll-scholar
 
 author:
@@ -86,13 +86,13 @@ scholar:
   group_by: year
   bibliography_template: bib
   repository: ./papers/
-  sort_by: year
-  order: ascending
+  sort_by: month
+  order: descending
 
 compress_html:
   clippings: all
   blanklines: true
-  
+
 footer:
   links:
     - label: "Twitter"
