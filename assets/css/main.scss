@@ -60,3 +60,7 @@ html {
     background: mix(#000, $primary-color, 25%); // change color
   }
 }
+
+.greedy-nav .visible-links a:before {
+  background-color: $illinois-orange;
+}
