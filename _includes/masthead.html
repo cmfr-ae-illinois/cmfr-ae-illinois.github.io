@@ -11,11 +11,11 @@
           {{ site.masthead_title | default: site.title }}
           {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
         </a> -->
-        <a class="site-title" href="{{ '/' | relative_url }}">
+        <span class="site-title"><a href="{{ '/' | relative_url }}">
           {{ site.masthead_title | default: site.title }}
         </a><a class="site-title" href="{{ '/' | relative_url }}">
           <span class="site-subtitle">{{ site.subtitle }}</span>
-        </a>
+        </a></span>
         <ul class="visible-links">
           {%- for link in site.data.navigation.main -%}
             <li class="masthead__menu-item">
