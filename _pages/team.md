@@ -61,11 +61,11 @@ Team
     <a href="mailto:sudhir3@illinois.edu">sudhir3@illinois.edu</a>
   </div>
   <div class="box">
-    <img src="../assets/images/bio-photo.jpg" style="float: left; width: 13em; margin-right: 1em; object-fit: contain;"/>
-    <a href="."><b>Ashish Dhanalakota</b></a><br>
-    B.S. Student  <br>
+    <!-- <img src="../assets/images/bio-photo.jpg" style="float: left; width: 13em; margin-right: 1em; object-fit: contain;"/>
+    <a href="."><b>Student 1</b></a><br>
+    M.S. Student  <br>
     Aerospace Engineering  <br>
-    <a href="mailto:student1@illinois.edu">ashishd4@illinois.edu</a>
+    <a href="mailto:student1@illinois.edu">student1@illinois.edu</a> -->
   </div>
   <div class="box">
     <!-- <img src="../assets/images/bio-photo.jpg" style="float: left; width: 13em; margin-right: 1em; object-fit: contain;"/>
