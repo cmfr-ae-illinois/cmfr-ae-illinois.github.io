@@ -66,7 +66,7 @@ Team
 
 <div class="flex-container" style="margin-bottom: 0.8em">
   <div class="box">
-    <img src="../assets/images/bio-photo.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain;"/>
+    <img src="../assets/images/sid.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain;"/>
     <a href="."><b>Sid Sudhir</b></a><br>
     B.S. Student  <br>
     Aerospace Engineering  <br>
