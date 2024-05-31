@@ -101,25 +101,25 @@ Team
 </style>
 
 <div class="flex-container" style="margin-bottom: 0.8em">
-  <div class="box">
-    <img src="../assets/images/sid.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain;"/>
-    <a href="."><b>Sid Sudhir</b></a><br>
-    B.S. Student  <br>
-    Aerospace Engineering  <br>
-    <a href="mailto:sudhir3@illinois.edu">sudhir3@illinois.edu</a>
-  </div>
-  <div class="box">
+   <div class="box">
     <img src="../assets/images/ashish.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain;"/>
     <a href="."><b>Ashish Dhanalakota</b></a><br>
     B.S. Student  <br>
     Aerospace Engineering  <br>
     <a href="mailto:ashishd4@illinois.edu">ashishd4@illinois.edu</a>
   </div>
-  <div class="box">
-    <!-- <img src="../assets/images/bio-photo.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain;"/>
-    <a href="."><b>Student 1</b></a><br>
-    M.S. Student  <br>
+   <div class="box">
+    <img src="../assets/images/bio-photo.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain;"/>
+    <a href="."><b>Richeek Dutta</b></a><br>
+    B.S. Student  <br>
     Aerospace Engineering  <br>
-    <a href="mailto:student1@illinois.edu">student1@illinois.edu</a> -->
+    <a href="mailto:student1@illinois.edu">richeek2@illinois.edu</a>
+  </div>
+  <div class="box">
+    <img src="../assets/images/sid.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain;"/>
+    <a href="."><b>Sid Sudhir</b></a><br>
+    B.S. Student  <br>
+    Aerospace Engineering  <br>
+    <a href="mailto:sudhir3@illinois.edu">sudhir3@illinois.edu</a>
   </div>
 </div>
