@@ -29,6 +29,20 @@
   langid = {english}
 }
 
+\@article{Cahaly2024,
+title = {PLIC-Net: A machine learning approach for 3D interface reconstruction in volume of fluid methods},
+journal = {International Journal of Multiphase Flow},
+volume = {178},
+pages = {104888},
+year = {2024},
+issn = {0301-9322},
+doi = {https://doi.org/10.1016/j.ijmultiphaseflow.2024.104888},
+url = {https://www.sciencedirect.com/science/article/pii/S0301932224001654},
+author = {Andrew Cahaly and Fabien Evrard and Olivier Desjardins},
+keywords = {Volume of fluid, PLIC, Interface reconstruction, Machine learning},
+abstract = {The accurate reconstruction of immiscible fluid-fluid interfaces from the volume fraction field is a critical component of geometric Volume of Fluid methods. A common strategy is the Piecewise Linear Interface Calculation (PLIC), which fits a plane in each mixed-phase computational cell. However, recent work goes beyond PLIC by using two planes or even a paraboloid. To select such planes or paraboloids, complex optimization algorithms as well as carefully crafted heuristics are necessary. Yet, the potential exists for a well-trained machine learning model to efficiently provide broadly applicable solutions to the interface reconstruction problem at lower costs. In this work, the viability of a machine learning approach is demonstrated in the context of a single plane reconstruction. A feed-forward deep neural network is used to predict the normal vector of a PLIC plane given volume fraction and phasic barycenter data in a 3×3×3 stencil. The PLIC plane is then translated in its cell to ensure exact volume conservation. Our proposed neural network PLIC reconstruction (PLIC-Net) is equivariant to reflections about the Cartesian planes. Training data is analytically generated with O(106) randomized paraboloid surfaces, which allows for the sampling a broad range of interface shapes. PLIC-Net is tested in multiphase flow simulations where it is compared to standard LVIRA and ELVIRA reconstruction algorithms, and the impact of training data statistics on PLIC-Net’s performance is also explored. It is found that PLIC-Net greatly limits the formation of spurious planes and generates cleaner numerical break-up of the interface. Additionally, the computational cost of PLIC-Net is lower than that of LVIRA and ELVIRA. These results establish that machine learning is a viable approach to Volume of Fluid interface reconstruction and is superior to current reconstruction algorithms for some cases.}
+}
+
 @article{Cerqueira2021,
   title = {Multiscale Modeling and Validation of the Flow around {{Taylor}} Bubbles Surrounded with Small Dispersed Bubbles Using a Coupled {{VOF-DBM}} Approach},
   author = {Cerqueira, Rafael F.L. and Paladino, Emilio E. and Evrard, Fabien and Denner, Fabian and {van Wachem}, Berend},
@@ -228,7 +242,7 @@
   title = {A Hybrid {{Eulerian-Lagrangian}} Approach for Simulating Liquid Sprays},
   booktitle = {29th {{Conference}} on {{Liquid Atomization}} and {{Spray Systems}}},
   author = {Evrard, Fabien and Denner, Fabian and {van Wachem}, Berend},
-  year = {2019-09-02/2019-09-04},
+  year = {2019},
   address = {Paris}
 }
 
@@ -330,7 +344,7 @@
   title = {Simulating Interfacial Flows: A Farewell to Planes},
   booktitle = {33rd {{Annual Conference}} on {{Liquid Atomization}} and {{Spray Systems}}, {{North}} and {{South America}}},
   author = {Evrard, Fabien and Chiodi, Robert and {van Wachem}, Berend and Desjardins, Olivier},
-  year = {2023-05-14/2023-05-17},
+  year = {2023},
   address = {Albuquerque, NM}
 }
 
