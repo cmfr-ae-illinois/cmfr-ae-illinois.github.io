@@ -42,13 +42,6 @@ Team
     Co-advised by <br> <a href="https://aerospace.illinois.edu/directory/profile/lvillafa">Prof. Laura Villafañe</a>
   </div>
   <div class="box">
-    <img src="../assets/images/kanishka.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain;"/>
-    <a href="."><b>Kanishka Deepak</b></a><br>
-    M.S. Student  <br>
-    Aerospace Engineering  <br>
-    <a href="mailto:kdeepak2@illinois.edu">kdeepak2@illinois.edu</a>
-  </div>
-  <div class="box">
     <img src="../assets/images/conrad.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain;"/>
     <a href="."><b>Conrad Delgado</b></a><br>
     Ph.D. Student <br>
@@ -57,8 +50,6 @@ Team
     Co-advised by <br><a href="https://aerospace.illinois.edu/directory/profile/mpanesi">Prof. Marco Panesi</a> <br> <br>
     Starting Fall 2024.
   </div>
-</div>
-<div class="flex-container" style="margin-bottom: 0.8em">
   <div class="box">
     <img src="../assets/images/ilia.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain;"/>
     <a href="."><b>Ilia Kheirkhah</b></a><br>
@@ -67,6 +58,8 @@ Team
     <a href="mailto:iliak2@illinois.edu">iliak2@illinois.edu</a><br> <br>
     Starting Fall 2024.
   </div>
+</div>
+<div class="flex-container" style="margin-bottom: 0.8em">
   <div class="box">
     <img src="../assets/images/parin.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain;"/>
     <a href="."><b>Parin Trivedi</b></a><br>
@@ -110,10 +103,10 @@ Team
   </div>
    <div class="box">
     <img src="../assets/images/bio-photo.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain;"/>
-    <a href="."><b>Richeek Dutta</b></a><br>
+    <a href="."><b>Aryan Shah</b></a><br>
     B.S. Student  <br>
     Aerospace Engineering  <br>
-    <a href="mailto:student1@illinois.edu">richeek2@illinois.edu</a>
+    <a href="mailto:student1@illinois.edu">aryanvs2@illinois.edu</a>
   </div>
   <div class="box">
     <img src="../assets/images/sid.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain;"/>
@@ -123,3 +116,24 @@ Team
     <a href="mailto:sudhir3@illinois.edu">sudhir3@illinois.edu</a>
   </div>
 </div>
+
+#### Alumni
+
+Kanishka Deepak (M.S. 2024)
+Richeek Dutta (B.S. 2024) -- Now Graduate Student at Georgia Tech.
+
+
+  <!-- <div class="box">
+    <img src="../assets/images/kanishka.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain;"/>
+    <a href="."><b>Kanishka Deepak</b></a><br>
+    M.S. Student  <br>
+    Aerospace Engineering  <br>
+    <a href="mailto:kdeepak2@illinois.edu">kdeepak2@illinois.edu</a>
+  </div> -->
+   <!-- <div class="box">
+    <img src="../assets/images/bio-photo.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain;"/>
+    <a href="."><b>Richeek Dutta</b></a><br>
+    B.S. Student  <br>
+    Aerospace Engineering  <br>
+    <a href="mailto:student1@illinois.edu">richeek2@illinois.edu</a>
+  </div> -->
