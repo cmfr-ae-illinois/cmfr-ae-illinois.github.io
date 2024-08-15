@@ -116,8 +116,8 @@ Team
 
 #### Alumni
 
-Kanishka Deepak (M.S. 2024)
-Richeek Dutta (B.S. 2024) -- Now Graduate Student at Georgia Tech.
+Kanishka Deepak (M.S. 2024)<br>
+Richeek Dutta (B.S. 2024) -- Now graduate student at Georgia Tech.
 
 
   <!-- <div class="box">
