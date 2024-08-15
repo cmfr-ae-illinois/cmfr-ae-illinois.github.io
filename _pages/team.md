@@ -48,7 +48,6 @@ Team
     Aerospace Engineering  <br>
     <a href="mailto:conradd3@illinois.edu">conradd3@illinois.edu</a> <br> <br>
     Co-advised by <br><a href="https://aerospace.illinois.edu/directory/profile/mpanesi">Prof. Marco Panesi</a> <br> <br>
-    Starting Fall 2024.
   </div>
   <div class="box">
     <img src="../assets/images/ilia.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain;"/>
@@ -56,7 +55,6 @@ Team
     Ph.D. Student  <br>
     Aerospace Engineering  <br>
     <a href="mailto:iliak2@illinois.edu">iliak2@illinois.edu</a><br> <br>
-    Starting Fall 2024.
   </div>
 </div>
 <div class="flex-container" style="margin-bottom: 0.8em">
@@ -66,7 +64,6 @@ Team
     Ph.D. Student  <br>
     Aerospace Engineering  <br>
     <a href="mailto:parinht2@illinois.edu">parinht2@illinois.edu</a><br> <br>
-    Starting Fall 2024.
   </div>
   <div class="box">
     <!-- <img src="../assets/images/conrad.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain;"/>
