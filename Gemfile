@@ -15,6 +15,6 @@ group :jekyll_plugins do
     gem "jemoji"
     gem "jekyll-include-cache"
     gem "nokogiri"
-    gem "open-uri"
-
+    # gem "open-uri"
+    
 end
