@@ -21,9 +21,7 @@ Team
     <a href="https://scholar.google.com/citations?user=94-2c98AAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-2x"></i></a>
     <a href="https://www.researchgate.net/profile/Fabien-Evrard"><i class="ai ai-researchgate-square ai-2x"></i></a>
     <a href="https://github.com/fabienevrard"><i class="fab fa-github-square fa-2x"></i></a>
-    <a href="https://arxiv.org/search/?searchtype=author&query=Evrard%2C+F"><i class="ai ai-arxiv-square ai-2x"></i></a><br>
-    <a href="https://scholar.google.com/citations?user=94-2c98AAAAJ&hl=en">Citations:</a> {{ site.data.scholar.citations }}<br>
-    <a href="https://scholar.google.com/citations?user=94-2c98AAAAJ&hl=en">h-index:</a> {{ site.data.scholar.h_index }}
+    <a href="https://arxiv.org/search/?searchtype=author&query=Evrard%2C+F"><i class="ai ai-arxiv-square ai-2x"></i></a>
   </div>
   <div class="box">
   </div>
