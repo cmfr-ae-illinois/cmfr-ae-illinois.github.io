@@ -1,4 +1,6 @@
-{{ reference | replace_first: 'F. Evrard', '<span style="color:#13294B"><b>F. Evrard</b></span>' }} {% if entry.url %}
+{{ reference | replace_first: 'F. Evrard', '<span style="color:#13294B"><b><a href="/team/#principal-investigator"
+      style="text-decoration:none">F.
+      Evrard</a></b></span>' }} {% if entry.url %}
 <span style="color:#C84113"><b>[<a href="{{entry.url}}" style="color:#C84113">URL</a>]</b></span> {% endif %}{% if
 links.pdf %}<span style="color:#C84113"><b>[<a href="{{links.pdf}}" style="color:#C84113">PDF</a>]</b></span> {% endif
 %}
