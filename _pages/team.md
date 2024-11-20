@@ -91,7 +91,7 @@ Team
     <a href="mailto:ashishd4@illinois.edu">ashishd4@illinois.edu</a>
   </div>
    <div class="box">
-    <img src="../assets/images/bio-photo.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain;"/>
+    <img src="../assets/images/aryan.jpeg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain;"/>
     <a href="." style="text-decoration:none"><b>Aryan Shah</b></a><br>
     B.S. Student  <br>
     Aerospace Engineering  <br>
@@ -104,6 +104,32 @@ Team
     Aerospace Engineering  <br>
     <a href="mailto:sudhir3@illinois.edu">sudhir3@illinois.edu</a>
   </div>
+</div>
+
+#### Visitors
+
+<div class="flex-container" style="margin-bottom: 0.8em">
+   <div class="box">
+    <img src="../assets/images/bio-photo.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain;"/>
+    <a href="." style="text-decoration:none"><b>Valentin Wasquel</b></a><br>
+    M.S. Student  <br>
+    Aerospace Engineering (ISAE-Supaéro) &<br>Applied Mathematics (Université Toulouse III)<br>
+    <a href="mailto:vwasquel@illinois.edu">vwasquel@illinois.edu</a>
+  </div>
+   <!-- <div class="box">
+    <img src="../assets/images/bio-photo.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain;"/>
+    <a href="." style="text-decoration:none"><b>Aryan Shah</b></a><br>
+    B.S. Student  <br>
+    Aerospace Engineering  <br>
+    <a href="mailto:student1@illinois.edu">aryanvs2@illinois.edu</a>
+  </div>
+  <div class="box">
+    <img src="../assets/images/sid.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain;"/>
+    <a href="." style="text-decoration:none"><b>Sid Sudhir</b></a><br>
+    B.S. Student  <br>
+    Aerospace Engineering  <br>
+    <a href="mailto:sudhir3@illinois.edu">sudhir3@illinois.edu</a>
+  </div> -->
 </div>
 
 #### Alumni
