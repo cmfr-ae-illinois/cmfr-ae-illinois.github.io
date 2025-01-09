@@ -1,6 +1,8 @@
 {{ reference | replace_first: 'F. Evrard', '<span style="color:#13294B"><b><a href="/team/#principal-investigator"
-      style="text-decoration:none">F.
-      Evrard</a></b></span>' }} {% if entry.url %}
+                  style="text-decoration:none">F. Evrard</a></b></span>' | replace_first: 'L. Bruni', '<span
+      style="color:#C84113"><b><a href="/team/#graduate-students" style="text-decoration:none;color:#C84113">L.
+                  Bruni*</a></b></span>'}}
+{% if entry.url %}
 <span style="color:#C84113"><b>[<a href="{{entry.url}}" style="color:#C84113">URL</a>]</b></span> {% endif %}{% if
-links.pdf %}<span style="color:#C84113"><b>[<a href="{{links.pdf}}" style="color:#C84113">PDF</a>]</b></span> {% endif
-%}
+links.pdf %}<span style="color:#C84113"><b>[<a href="{{links.pdf}}" style="color:#C84113">PDF</a>]</b></span>
+{% endif %}
