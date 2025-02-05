@@ -44,8 +44,10 @@ jobs:
         with:
           ruby-version: '3.3' # Not needed with a .ruby-version, .tool-versions or mise.toml
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-        # run: gem update --system --force
-      # - gem install uri
+      - name: Install Gems
+        run: 
+          gem update --system --force
+          gem install uri
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v2
