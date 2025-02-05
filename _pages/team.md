@@ -133,9 +133,9 @@ Team
 </div>
 
 #### Alumni
-
-Kanishka Deepak (M.S. 2024)<br>
-Richeek Dutta (B.S. 2024) -- Now graduate student at Georgia Tech.
+<small>_Names of former students are followed by their first position after graduation._<br></small>
+Kanishka Deepak (M.S. 2024) -- Project engineer at OneH2.<br>
+Richeek Dutta (B.S. 2024) -- Graduate student at Georgia Tech.
 
   <!-- <div class="box">
     <img src="../assets/images/kanishka.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain;"/>
