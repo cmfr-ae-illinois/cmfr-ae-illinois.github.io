@@ -91,11 +91,11 @@ Team
     <a href="mailto:ashishd4@illinois.edu">ashishd4@illinois.edu</a>
   </div>
    <div class="box">
-    <img src="../assets/images/aryan.jpeg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain;"/>
-    <a href="." style="text-decoration:none"><b>Aryan Shah</b></a><br>
+    <img src="../assets/images/bio-photo.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain;"/>
+    <a href="." style="text-decoration:none"><b>Richie Ma</b></a><br>
     B.S. Student  <br>
     Aerospace Engineering  <br>
-    <a href="mailto:student1@illinois.edu">aryanvs2@illinois.edu</a>
+    <a href="mailto:student1@illinois.edu">richiem2@illinois.edu</a>
   </div>
   <div class="box">
     <img src="../assets/images/sid.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain;"/>
@@ -133,9 +133,10 @@ Team
 </div>
 
 #### Alumni
-<small>_Names of former students are followed by their first position after graduation._<br></small>
-Kanishka Deepak (M.S. 2024) -- Project engineer at OneH2.<br>
-Richeek Dutta (B.S. 2024) -- Graduate student at Georgia Tech.
+<small>_Names of former students are followed by their last known position._<br></small>
+Aryan Shah (Undergraduate Research, 2025) -- Junior at UIUC.<br>
+Kanishka Deepak (M.Sc. Thesis, 2024) -- Project engineer at OneH2.<br>
+Richeek Dutta (Undergraduate Research, 2024) -- Graduate student at Georgia Tech.
 
   <!-- <div class="box">
     <img src="../assets/images/kanishka.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain;"/>
