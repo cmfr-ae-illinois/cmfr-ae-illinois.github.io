@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gen "jekyll"
+gem "jekyll"
 # gem "github-pages", group: :jekyll_plugins
 
 # gem "tzinfo-data"
