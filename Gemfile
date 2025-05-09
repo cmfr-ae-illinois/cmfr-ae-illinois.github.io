@@ -8,12 +8,12 @@ source "https://rubygems.org"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-    gem "jekyll-scholar"
-    gem "jekyll-paginate"
+    # gem "jekyll-scholar"
+    # gem "jekyll-paginate"
     # gem "jekyll-sitemap"
     # gem "jekyll-gist"
-    gem "jemoji"
-    gem "jekyll-include-cache"
+    # gem "jemoji"
+    # gem "jekyll-include-cache"
     # gem "nokogiri"
     # gem "open-uri"
     
