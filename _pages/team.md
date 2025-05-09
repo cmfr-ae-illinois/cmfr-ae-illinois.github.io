@@ -106,9 +106,9 @@ Team
   </div>
 </div>
 
-#### Visitors
+<!-- #### Visitors -->
 
-<div class="flex-container" style="margin-bottom: 0.8em">
+<!-- <div class="flex-container" style="margin-bottom: 0.8em">
    <div class="box">
     <img src="../assets/images/bio-photo.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain;"/>
     <a href="." style="text-decoration:none"><b>Valentin Wasquel</b></a><br>
@@ -129,11 +129,12 @@ Team
     B.S. Student  <br>
     Aerospace Engineering  <br>
     <a href="mailto:sudhir3@illinois.edu">sudhir3@illinois.edu</a>
-  </div> -->
-</div>
+  </div>
+</div> -->
 
 #### Alumni
 <small>_Names of former students are followed by their last known position._<br></small>
+Valentin Wasquel (Visiting Student, 2025) -- PhD student at CEA, France.<br>
 Aryan Shah (Undergraduate Research, 2025) -- Junior at UIUC.<br>
 Kanishka Deepak (M.Sc. Thesis, 2024) -- Project engineer at OneH2.<br>
 Richeek Dutta (Undergraduate Research, 2024) -- Graduate student at Georgia Tech.
