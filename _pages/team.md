@@ -68,7 +68,7 @@ Team
 </div>
 
 
-#### Undergraduate students
+<!-- #### Undergraduate students
 
 <style>
 #portrait {
@@ -81,8 +81,8 @@ Team
     -webkit-filter: grayscale(0);
 }
 </style>
-
-<div class="flex-container" style="margin-bottom: 0.8em">
+ -->
+<!-- <div class="flex-container" style="margin-bottom: 0.8em">
    <div class="box">
     <img src="../assets/images/ashish.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain;"/>
     <a href="." style="text-decoration:none"><b>Ashish Dhanalakota</b></a><br>
@@ -104,7 +104,7 @@ Team
     Aerospace Engineering  <br>
     <a href="mailto:sudhir3@illinois.edu">sudhir3@illinois.edu</a>
   </div>
-</div>
+</div> -->
 
 <!-- #### Visitors -->
 
@@ -134,6 +134,9 @@ Team
 
 #### Alumni
 <small>_Names of former students are followed by their last known position._<br></small>
+<!-- Richie Ma (Undergraduate Research, 2025) -- Graduate student at UIUC.<br> -->
+Sid Sudhir (Undergraduate Research, 2024-25) -- Graduate student at Imperial College London.<br>
+Ashish Dhanalakota (Undergraduate Research, 2024-25) -- Graduate student at Georgia Tech.<br>
 Valentin Wasquel (Visiting Student, 2025) -- PhD student at CEA, France.<br>
 Aryan Shah (Undergraduate Research, 2025) -- Junior at UIUC.<br>
 Kanishka Deepak (M.Sc. Thesis, 2024) -- Project engineer at OneH2.<br>
