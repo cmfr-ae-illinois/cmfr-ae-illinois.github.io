@@ -3,7 +3,6 @@ Workflow to push changes:
 - Checkout `draft` branch
 - Commit and push changes
 - Build local version of website with `bundle exec jekyll serve`
-- Local website is available at `http://localhost:4000/`
 
 Then 
 
