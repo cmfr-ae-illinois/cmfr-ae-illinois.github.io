@@ -10,7 +10,7 @@ Team
 
 <div class="flex-container" style="margin-bottom: 0.8em">
   <div class="box">
-    <img src="../assets/images/fabien.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain;"/>
+    <img src="../assets/images/fabien.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain; border:1.5px solid #13294B; border-radius: 5%;"/>
     <a href="https://aerospace.illinois.edu/directory/profile/fevrard" style="text-decoration:none"><b>Fabien Evrard</b></a>
      <!-- <b><a style="color:#C84113" href="../cv/fevrard.pdf">[CV]</a></b> -->
      <br>
@@ -34,7 +34,14 @@ Team
 
 <div class="flex-container" style="margin-bottom: 0.8em">
   <div class="box">
-    <img src="../assets/images/lorenzo.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain;"/>
+    <img src="../assets/images/quirin.png" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain; border:1.5px solid #13294B; border-radius: 5%;"/>
+    <a href="." style="text-decoration:none"><b>Quirin Bassler</b></a><br>
+    M.S. Student  <br>
+    Aerospace Engineering  <br>
+    <a href="mailto:qfb2@illinois.edu">qfb2@illinois.edu</a> <br> <br>
+  </div>
+  <div class="box">
+    <img src="../assets/images/lorenzo.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain; border:1.5px solid #13294B; border-radius: 5%;"/>
     <a href="." style="text-decoration:none"><b>Lorenzo Bruni</b></a><br>
     Ph.D. Student  <br>
     Aerospace Engineering  <br>
@@ -42,33 +49,40 @@ Team
     Co-advised by <br> <a href="https://aerospace.illinois.edu/directory/profile/lvillafa" style="text-decoration:none">Prof. Laura Villafañe</a>
   </div>
   <div class="box">
-    <img src="../assets/images/conrad.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain;"/>
+    <img src="../assets/images/conrad.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain; border:1.5px solid #13294B; border-radius: 5%;"/>
     <a href="." style="text-decoration:none"><b>Conrad Delgado</b></a><br>
     Ph.D. Student <br>
     Aerospace Engineering  <br>
     <a href="mailto:conradd3@illinois.edu">conradd3@illinois.edu</a> <br> <br>
     Co-advised by <br><a href="https://aerospace.illinois.edu/directory/profile/mpanesi" style="text-decoration:none">Prof. Marco Panesi</a> <br> <br>
   </div>
+</div>
+<div class="flex-container" style="margin-bottom: 0.8em">
   <div class="box">
-    <img src="../assets/images/ilia.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain;"/>
+    <img src="../assets/images/ilia.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain; border:1.5px solid #13294B; border-radius: 5%;"/>
     <a href="." style="text-decoration:none"><b>Ilia Kheirkhah</b></a><br>
     Ph.D. Student  <br>
     Aerospace Engineering  <br>
     <a href="mailto:iliak2@illinois.edu">iliak2@illinois.edu</a><br> <br>
   </div>
-</div>
-<div class="flex-container" style="margin-bottom: 0.8em">
   <div class="box">
-    <img src="../assets/images/parin.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain;"/>
+    <img src="../assets/images/parin.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain; border:1.5px solid #13294B; border-radius: 5%;"/>
     <a href="." style="text-decoration:none"><b>Parin Trivedi</b></a><br>
     Ph.D. Student  <br>
     Aerospace Engineering  <br>
     <a href="mailto:parinht2@illinois.edu">parinht2@illinois.edu</a><br> <br>
   </div>
+  <div class="box">
+    <!-- <img src="../assets/images/parin.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain; border:1.5px solid #13294B; border-radius: 5%;"/>
+    <a href="." style="text-decoration:none"><b>Parin Trivedi</b></a><br>
+    Ph.D. Student  <br>
+    Aerospace Engineering  <br>
+    <a href="mailto:parinht2@illinois.edu">parinht2@illinois.edu</a><br> <br> -->
+  </div>
 </div>
 
 
-<!-- #### Undergraduate students
+#### Undergraduate students
 
 <style>
 #portrait {
@@ -81,16 +95,15 @@ Team
     -webkit-filter: grayscale(0);
 }
 </style>
- -->
-<!-- <div class="flex-container" style="margin-bottom: 0.8em">
+<div class="flex-container" style="margin-bottom: 0.8em">
    <div class="box">
-    <img src="../assets/images/ashish.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain;"/>
-    <a href="." style="text-decoration:none"><b>Ashish Dhanalakota</b></a><br>
+    <img src="../assets/images/bio-photo.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain; border:1.5px solid #13294B; border-radius: 5%;"/>
+    <a href="." style="text-decoration:none"><b>Dillon Mulrooney</b></a><br>
     B.S. Student  <br>
     Aerospace Engineering  <br>
-    <a href="mailto:ashishd4@illinois.edu">ashishd4@illinois.edu</a>
+    <a href="mailto:dillonm6@illinois.edu">dillonm6@illinois.edu</a>
   </div>
-   <div class="box">
+   <!-- <div class="box">
     <img src="../assets/images/bio-photo.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain;"/>
     <a href="." style="text-decoration:none"><b>Richie Ma</b></a><br>
     B.S. Student  <br>
@@ -103,8 +116,8 @@ Team
     B.S. Student  <br>
     Aerospace Engineering  <br>
     <a href="mailto:sudhir3@illinois.edu">sudhir3@illinois.edu</a>
-  </div>
-</div> -->
+  </div> -->
+</div>
 
 <!-- #### Visitors -->
 
@@ -135,12 +148,12 @@ Team
 #### Alumni
 <small>_Names of former students are followed by their last known position._<br></small>
 <!-- Richie Ma (Undergraduate Research, 2025) -- Graduate student at UIUC.<br> -->
-Sid Sudhir (Undergraduate Research, 2024-25) -- Graduate student at Imperial College London.<br>
-Ashish Dhanalakota (Undergraduate Research, 2024-25) -- Graduate student at Georgia Tech.<br>
-Valentin Wasquel (Visiting Student, 2025) -- PhD student at CEA, France.<br>
-Aryan Shah (Undergraduate Research, 2025) -- Junior at UIUC.<br>
-Kanishka Deepak (M.Sc. Thesis, 2024) -- Project engineer at OneH2.<br>
-Richeek Dutta (Undergraduate Research, 2024) -- Graduate student at Georgia Tech.
+Sid Sudhir (Undergraduate Research, 2024-25) -- _Next position:_ Graduate student at Imperial College London.<br>
+Ashish Dhanalakota (Undergraduate Research, 2024-25) -- _Next position:_ Graduate student at Georgia Tech.<br>
+Valentin Wasquel (Visiting Student, 2025) -- _Next position:_ PhD student at CEA, France.<br>
+Aryan Shah (Undergraduate Research, 2025) -- _Next position:_ Junior at UIUC.<br>
+Kanishka Deepak (M.Sc. Thesis, 2024) -- _Next position:_ Project engineer at OneH2.<br>
+Richeek Dutta (Undergraduate Research, 2024) -- _Next position:_ Graduate student at Georgia Tech.
 
   <!-- <div class="box">
     <img src="../assets/images/kanishka.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain;"/>
