@@ -54,7 +54,7 @@ Team
     Ph.D. Student <br>
     Aerospace Engineering  <br>
     <a href="mailto:conradd3@illinois.edu">conradd3@illinois.edu</a> <br> <br>
-    Co-advised by <br><a href="https://aerospace.illinois.edu/directory/profile/mpanesi" style="text-decoration:none">Prof. Marco Panesi</a> <br> <br>
+    <!-- Co-advised by <br><a href="https://aerospace.illinois.edu/directory/profile/mpanesi" style="text-decoration:none">Prof. Marco Panesi</a> <br> <br> -->
   </div>
 </div>
 <div class="flex-container" style="margin-bottom: 0.8em">
@@ -98,10 +98,10 @@ Team
 <div class="flex-container" style="margin-bottom: 0.8em">
    <div class="box">
     <img src="../assets/images/bio-photo.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain; border:1.5px solid #13294B; border-radius: 5%;"/>
-    <a href="." style="text-decoration:none"><b>Dillon Mulrooney</b></a><br>
+    <a href="." style="text-decoration:none"><b>Daozheng Zhang</b></a><br>
     B.S. Student  <br>
     Aerospace Engineering  <br>
-    <a href="mailto:dillonm6@illinois.edu">dillonm6@illinois.edu</a>
+    <a href="mailto:dillonm6@illinois.edu">dz16@illinois.edu</a>
   </div>
    <!-- <div class="box">
     <img src="../assets/images/bio-photo.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain;"/>
@@ -147,7 +147,8 @@ Team
 
 #### Alumni
 <small>_Names of former students are followed by their last known position._<br></small>
-<!-- Richie Ma (Undergraduate Research, 2025) -- Graduate student at UIUC.<br> -->
+Dillon Mulrooney (Undergraduate Research, 2025) -- _Next position:_ Graduate student at UIUC.<br>
+Richie Ma (Undergraduate Research, 2025) -- _Next position:_ Graduate student at Georgia Tech.<br>
 Sid Sudhir (Undergraduate Research, 2024-25) -- _Next position:_ Graduate student at Imperial College London.<br>
 Ashish Dhanalakota (Undergraduate Research, 2024-25) -- _Next position:_ Graduate student at Georgia Tech.<br>
 Valentin Wasquel (Visiting Student, 2025) -- _Next position:_ PhD student at CEA, France.<br>
