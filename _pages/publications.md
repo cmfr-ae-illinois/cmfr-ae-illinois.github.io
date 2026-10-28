@@ -4,7 +4,7 @@ permalink: /publications/
 
 # Publications
 
-<b>Legend:</b> <b style="text-decoration:none;color:#C84113">CMFR students*</b>, <b style="text-decoration:none;color:#13294B">CMFR PI</b>
+<b>Legend:</b> <b style="text-decoration:none;color:#C84113">CMFR students*</b>, <b style="text-decoration:none;color:#13294B">CMFR PI</b>, <b style="text-decoration:none">†: co-first authors</b>
 
 {% capture numJournalPapers %}
 {% bibliography_count --group_by year --group_order descending --query @article %}

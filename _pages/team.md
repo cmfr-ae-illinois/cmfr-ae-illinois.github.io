@@ -34,11 +34,11 @@ Team
 
 <div class="flex-container" style="margin-bottom: 0.8em">
   <div class="box">
-    <img src="../assets/images/quirin.png" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain; border:1.5px solid #13294B; border-radius: 5%;"/>
-    <a href="." style="text-decoration:none"><b>Quirin Bassler</b></a><br>
+    <img src="../assets/images/nic.png" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain; border:1.5px solid #13294B; border-radius: 5%;"/>
+    <a href="." style="text-decoration:none"><b>Nicholas Alinger</b></a><br>
     M.S. Student  <br>
     Aerospace Engineering  <br>
-    <a href="mailto:qfb2@illinois.edu">qfb2@illinois.edu</a> <br> <br>
+    <a href="mailto:alinger3@illinois.edu">alinger3@illinois.edu</a> <br> <br>
   </div>
   <div class="box">
     <img src="../assets/images/lorenzo.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain; border:1.5px solid #13294B; border-radius: 5%;"/>
@@ -96,27 +96,27 @@ Team
 }
 </style>
 <div class="flex-container" style="margin-bottom: 0.8em">
-   <div class="box">
-    <img src="../assets/images/bio-photo.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain; border:1.5px solid #13294B; border-radius: 5%;"/>
+  <div class="box">
+    <img src="../assets/images/hiko.png" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain; border:1.5px solid #13294B; border-radius: 5%;"/>
+    <a href="." style="text-decoration:none"><b>Kuang-Yen Chen</b></a><br>
+    B.S. Student  <br>
+    Aerospace Engineering  <br>
+    <a href="mailto:hikoc2@illinois.edu">hikoc2@illinois.edu</a>
+  </div>
+  <div class="box">
+    <img src="../assets/images/daozheng.png" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain; border:1.5px solid #13294B; border-radius: 5%;"/>
     <a href="." style="text-decoration:none"><b>Daozheng Zhang</b></a><br>
     B.S. Student  <br>
     Aerospace Engineering  <br>
-    <a href="mailto:dillonm6@illinois.edu">dz16@illinois.edu</a>
-  </div>
-   <!-- <div class="box">
-    <img src="../assets/images/bio-photo.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain;"/>
-    <a href="." style="text-decoration:none"><b>Richie Ma</b></a><br>
-    B.S. Student  <br>
-    Aerospace Engineering  <br>
-    <a href="mailto:student1@illinois.edu">richiem2@illinois.edu</a>
+    <a href="mailto:dz16@illinois.edu">dz16@illinois.edu</a>
   </div>
   <div class="box">
-    <img src="../assets/images/sid.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain;"/>
+  <!--   <img src="../assets/images/sid.jpg" id="portrait" style="float: left; width: 13em; margin-right: 1em; object-fit: contain;"/>
     <a href="." style="text-decoration:none"><b>Sid Sudhir</b></a><br>
     B.S. Student  <br>
     Aerospace Engineering  <br>
-    <a href="mailto:sudhir3@illinois.edu">sudhir3@illinois.edu</a>
-  </div> -->
+    <a href="mailto:sudhir3@illinois.edu">sudhir3@illinois.edu</a>  -->
+  </div>
 </div>
 
 <!-- #### Visitors -->
@@ -147,6 +147,7 @@ Team
 
 #### Alumni
 <small>_Names of former students are followed by their last known position._<br></small>
+Quirin Bassler (M.Sc. Thesis, 2026) -- _Next position:_ Young Graduate Trainee (YGT) at the European Space Agency.<br>
 Dillon Mulrooney (Undergraduate Research, 2025) -- _Next position:_ Graduate student at UIUC.<br>
 Richie Ma (Undergraduate Research, 2025) -- _Next position:_ Graduate student at Georgia Tech.<br>
 Sid Sudhir (Undergraduate Research, 2024-25) -- _Next position:_ Graduate student at Imperial College London.<br>
